@@ -38,15 +38,25 @@ Global theme tokens
     /* 
       If theme doesn’t require a dark mode then remove this media query altogether
     */
-    --color-text: #CED3E8;
-    --color-text-mod-1: #C4CAE3;
-    --color-text-mod-2: #8995C8;
-    --color-bg: #212845;
-    --color-bg-mod-1:#121626;
-    --color-bg-mod-2: #212845;
+    //--color-text: #CED3E8;
+    //--color-text-mod-1: #C4CAE3;
+    //--color-text-mod-2: #8995C8;
+    //--color-bg: #212845;
+    //--color-bg-mod-1:#121626;
+    //--color-bg-mod-2: #212845;
+    //--color-border: #CED3E8;
+    //--color-brand: #a08aff;
+    //--color-accent: #FF70AE;
+
+    --color-text: #D9D9D9;
+    --color-text-mod-1: #D9D9D9;
+    --color-text-mod-2: #D9D9D9;
+    --color-bg: #1E1E1E;
+    --color-bg-mod-1:#1E1E1E;
+    --color-bg-mod-2: #2e2e2e;
     --color-border: #CED3E8;
-    --color-brand: #a08aff;
-    --color-accent: #FF70AE;
+    --color-brand: #D9D9D9;
+    --color-accent: #D9D9D9;
   }
 
   /* Grid */
