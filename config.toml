@@ -69,6 +69,8 @@ enable = false
 enable = false
 [markup.goldmark.parser]
 wrapStandAloneImageWithinParagraph = false # remove paragraphs that wrap stand-alone images https://discourse.gohugo.io/t/remove-empty-p-s-from-content/42462/7?u=harrycresswell
+[markup.goldmark.renderer]
+unsafe = true
 
 [[menu.main]]
 name = "Index"
