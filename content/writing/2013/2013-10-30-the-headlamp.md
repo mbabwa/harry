@@ -1,0 +1,16 @@
+---
+title: "The Headlamp"
+date: 2013-10-30
+categories: 
+  - "personal"
+---
+
+One year ago, Hurricane Sandy swept through the northeast, bringing strong winds, rain, and a powerful storm surge that sent water levels higher than any in recent memory in the NY-NJ area. I never thought that a once safe neighborhood (_my_ neighborhood) could transform into a disaster area overnight. But feelings of loss and vulnerability gave way to determination to undo the damage, to return to normal. As soon as the floodwaters had receded, it was time to begin the long, hard work of cleanup and reconstruction, which still remains unfinished in many parts even today.
+
+Thinking back on [my experience](/after-hurricane-sandy) after the flood, I am grateful for all the things that helped me get through it all. Family, friends, neighbors and aid volunteers provided support and basic necessities like a place to stay, a hot meal, and occasional power from a portable generator to charge my phone and stay connected to the outside world (which had felt more distant than ever). The mostly mild weather and being physically capable of working made a huge difference as well. But there is one thing that I am especially glad I had during the "darkest" period post-Sandy: my [Energizer headlamp](http://goo.gl/mYcRs9).
+
+I remember buying it several years ago, after using a friend’s extra head lamp during a camping and hiking trip in New Hampshire. I was astonished that such a simple invention — an LED flashlight with a headband — could be so invaluable, and so much more useful than an ordinary handheld flashlight in situations where activities needed to be done in the dark. At about $14 and powered by three AAA batteries, the headlamp seemed a worthwhile addition to my collection of tools and safety supplies. The multiple brightness settings and tilt-able lamp seemed handy at the time, but I had no idea how useful they would be until the need arose.
+
+For six days after the hurricane waters receded, my entire neighborhood was without power. My daily “work” routine was to wake at dawn, walk home from a nearby relative’s house where I was staying, and haul out bag after bag of wet garbage until just before dusk. The only light available to me came through small windows and was barely enough to work with, so my headlamp had to provide enough illumination to see what I was doing. At night, my headlamp would guide me along my walk back and even through the house when candles weren't enough. Amazingly, with so much constant use, not once did the light grow dim, nor did the batteries need changing.
+
+Much has improved since that time, and I am glad to finally be back to normal — a little wiser and a little more cautious, for sure. Getting here today was the result of many efforts working together. It took the help of federal and local agencies along with charities like the American Red Cross to coordinate the large-scale relief effort and mobilize volunteers and aid right after the storm. It also took the work of local sanitation workers and repair crews to clear away damaged material and rebuild (hopefully) better and safer. On a personal level, it took persistence, physical and mental energy, and the help of something as simple as a headlamp to climb out of the darkness.

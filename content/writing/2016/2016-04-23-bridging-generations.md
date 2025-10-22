@@ -1,0 +1,40 @@
+---
+title: "Bridging Generations"
+date: 2016-04-23
+categories: 
+  - "personal"
+---
+
+As someone who's slowly inching toward 40, I feel distinctly out of place with the present. It doesn't feel like _my_ present. The more I age, the greater the sense of anachronism. Three distinct realities are blurring together: the old world wisdom my grandparents conveyed to me during my childhood, the analog-to-digital transition through which I have come of age, and the Web revolution whose rapid escalation has left virtually no part of my present life untouched.
+
+It seems to me that the faster technological "progress" happens — and the more I notice it — the less natural it feels and the more alienating it becomes. Every advance in technology that's introduced into our lives appears to grant us some new luxury or capability that wasn't available (or needed?) before, but when those novelties become normalities, what they actually do is erode a bit of the past to make a little more room for the future. Devices, apps, screens, texts, buzzes, beeps, taps, swipes, and every other new feature added to our tech-saturated experience claim to be human-centered in some way or another, and yet we're forced to let go of what's comfortable and familiar in order to learn these strange new tech-intermediated ways, adapt to them, and end up having our behavior altered by them. The hyper-computerization and hyper-connectivity that permeates all our waking and sleeping hours takes away more than it gives back, and what it takes are the things I'm not willing to give up — the ethos of simpler times.
+
+I may sound like a grumpy old man, but no, I am not a Luddite ready to flee to a cabin in the wilderness, nor am I fearful of an impending techno-dystopia. Low and high technology is a good thing; I am just as profoundly amazed by wood screws, indoor plumbing, electricity, and wifi as I am grateful for them. The problem I see is that we are no longer shaping and molding technology to _us_ as we used to — it's the other way around. We've ceded control of how we live our lives — decisions about what fits and what doesn't, what enriches our lives and what saps it — to the forces of corporate "innovation" and easy availability of tools like e-mail, wireless devices, social networks, and text messaging. Meanwhile, with each passing generation, I see growing indulgence in fleeting pleasures and mindless habits enabled by devices and further disconnection from now bygone values like self-restraint, hand skills and craft, deep concentration, listening skills, and the big one, human-to-human attention. (Far be it from me to level judgement on those poor younger generations wedded to their smartphones: I learned how to curb my device habit back when I had an iPhone 3G.)
+
+There's no point in reminiscing about the "good old days." They're not coming back. Regarding the past with warm nostalgic affection and preserving stories of yesteryear may help keep the memory alive, but it doesn't do much good for everyone else in the here and now. What matters are the practices and attitudes that helped make those days "good" — the common sense that governed everyday conduct — and how to carry them forward. In my own lifetime, numerous aspects of life have radically transformed for the worse because of the pervasiveness of technology, such as how we work, how we learn, how we interact with each other, and how we spend our free time (of course, the good-vs-bad debate goes both ways). Reconnecting with old world / analog thinking might help restore some of the things we're losing.
+
+One area in particular troubles me the most today: **communication**.
+
+Way back when (up until 25 years or so ago), communication was an art form:
+
+- Letters were lengthy, hand-written with care or typed on special stationery.
+- Conversation was rich with well-told stories, clever turns of phrase, and literary allusions, not to mention back-and-forth dialogue.
+- Phone calls were the lifeline of business, with protocols for answering and concluding.
+
+Today, communication is broken into tiny little fragments:
+
+- E-mails, the sorry substitute for letters, are piecemeal, poorly written, and replied to at whim days or weeks later — sometimes regardless of the sender's situation.
+- Conversation is regularly interrupted by the buzz, ring, or glow of a device that's rarely out of reach, and then the problem is remembering where one left off.
+- Text messaging, chat, and social media updates have all but replaced phone calls, which are now dreaded by younger generations, in personal and work contexts.
+
+How do we fold some of the past back into the present with a sense of balance? For starters, let's be more considerate and deliberate in how we communicate. Here is some advice I follow from that little voice in the back of my head:
+
+- **Write purposeful e-mails with complete thoughts and clear points, and keep the recipient in mind.** If there's a question or unresolved issue in a message you receive, address it in a timely way — the other person will almost always interpret a delayed reply negatively. On the other hand, if you really care and the message is personal, write out your thoughts and hand-deliver or mail them. The gesture alone matters a lot, and not just for thank-you's, birthdays, and holiday cards.
+
+- **Turn your phone off and put it away when you're having a conversation.** Take interest in the person you're talking to face-to-face. He or she is a human being right in front of you, so respect their time and attention by giving them yours. Conversation should be interesting and dynamic — like "intellectual jazz," as Richard Saul Wurman put it. Probe shared interests like travel, aspirations, art exhibits, books, nature, etc, before delving into talk of the latest Netflix show.
+
+- **If you get an urge to text (or any sort of social media update), think twice.** Does this thought require a text? Is it urgent or can it wait? Also, consider stopping off to the side of traffic (foot and vehicular) if you absolutely must read or write a text and avoid accidents. When you do choose to write a text, again consider who you're writing to. It's still writing and doesn't excuse you from putting coherent thoughts together.
+
+I know this sounds like a lot of tired old finger-wagging, but it needs to be said, generation after generation, from one context to the next. **So we don't forget.** For those whose experience of life has been defined early on by the omnipresence of technology in their daily activities and interactions, it may be a fool's errand to sell them on a philosophy of "slower, less, and more thoughtful" technology use, or heaven forbid, "as little as possible." Someday, when they're older, when the pace of change rattles their own sense of comfort, they might see things differently and long for their own good old days.
+
+I am thankful for having known the past far enough back before technological progress started getting out of hand. I am glad to have developed a callus on my right middle finger from years of writing and drawing, not typing or tapping (although I'm kind of proud to have learned how to type on an IBM Selectric). I treasure the time of not having information at my fingertips, not always knowing what my friends or complete strangers are thinking or doing, not having an immediate solution to boredom in my pocket, and especially, not always being available to everyone. I enjoy talking to people twenty, thirty, even forty years older than me with whom I share the same tech-free experiences and delights, and I marvel at their stories of tougher times, when wars, economic depressions, political upheavals, and emigrations were the major forces of change in their lives. Above all, and despite my uneasiness about what's happening today, I feel lucky to have experienced so much change in my still short life so far, to have learned the lessons of others, and to be able to translate some of the "wisdom of the ages" into what I do now. Maybe some of it will rub off on these young whippersnappers.

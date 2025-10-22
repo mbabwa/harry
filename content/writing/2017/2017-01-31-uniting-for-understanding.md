@@ -1,0 +1,62 @@
+---
+title: "Uniting for Understanding"
+date: 2017-01-31
+categories: 
+  - "sensemaking"
+---
+
+Well, 2017 has gotten off to quite a start! 
+
+If there’s one bright spot that has come out of the tumult of 2016 and ongoing unrest triggered by the new administration, it’s the resounding call to action to reassert and recommit to values and principles long taken for granted. People are reaffirming identities, freedoms, and ideals in response to harmful political rhetoric and ill-conceived executive orders. What was once unthinkable (a government that works _against_ the people) is becoming terrifyingly possible, and there is tremendous urgency to stop it from becoming reality through vocal and physical protests, calls to state representatives to change or defend policies, and rapid dissemination of _real_ news and information.
+
+On a professional level, designers have been looking for ways to channel their thoughts and feelings into productive outlets that can bring about change, especially after the disorienting election. [AIGA](http://www.aiga.org/), long a home base for the design profession in the U.S., has seen renewed interest and engagement in the three initiatives organized under its umbrella “movement” called [Design for Good](http://www.aiga.org/design-for-good/): Diversity and Inclusion, Women Lead, and Design for Democracy. Their efforts are promising, but there is much, much more to be done, especially when it comes to the current [information implosion](/making-sense-of-the-information-implosion). At a time when facts and truth are coming under attack — and “alternative facts” are possible — what does all this mean for the myriad _understanding_ _professionals_ whose primary job is to uncover, make sense of, and present information across different contexts? What can and should all of us in information design, data visualization, scientific visualization, data journalism, user experience design, information architecture, technical communication, and other related fields be doing to counteract the challenges to our core purpose as communicators and clarifiers of information and enablers of understanding?
+
+For too long, understanding professions have been operating in their own bubbles, largely isolated from each other and misunderstood by the general public. (I regularly struggle to explain information design concisely. Many people just hear "design" and instantly think "advertising," "art," or "computer graphics.") There’s no question that individually, these professions already make a positive impact, whether it’s through instructions and signage that help save lives, visualizations of facts and data that educate the public and inform policy-making, or digital experiences that ease interactions with government agencies and services. Each understanding profession carries distinct value and creates distinct value of its own, yet many share the same histories, aims, principles, and practices that are not widely enough recognized or understood. What if all of these professionals could unite on common ground and realize the good they could achieve together by actually collaborating with each other? What if there was one unified voice for advancing and enabling understanding?
+
+The need to band together, especially now, may not be readily apparent to some. Why should, say, user experience designers care about what information designers do? Or why should data visualization folks swap notes with information architects? Why not let everyone just do their job and leave well enough alone? Simple: because each understanding profession has something to offer the other, whether it's a piece of knowledge or history or mutual support in the shared cause of enabling understanding. And we could more effectively do our jobs in tandem with our fellow understanding professionals, rather than alone or in competition, given what we're facing today.
+
+We have reached a tipping point: our long-standing professional disunity has not only hindered our own growth and progress, but it has jeopardized our ability to tackle the mess of problems weighing down on those we serve. Below are five main challenges and some potential ways for all understanding professionals to address them, with plenty of room for suggestions, revisions, complaints...
+
+### CHALLENGE 1: There are many conversations, but no synthesis.
+
+There are many blogs, events, associations, message boards, and other places for discussion of professional topics, but they’re all largely tied to a particular field. Within each field, there are numerous dangling conversations: tweets, blog posts, Facebook posts, comment threads that appear and become lost or forgotten. Plenty of fragments, but no glue to pull them together. 
+
+**IDEA 1:** Create a central hub online for dialogue and knowledge sharing across different understanding professions. A site that serves this kind of purpose, minus the discussion and some other features, is the [InfoVis:Wiki](http://infovis-wiki.net/index.php?title=Main_Page). If there are other similar examples, it would be great to know.  
+
+**IDEA 2:** Form a meta-association to connect existing professional groups and associations, and coordinate crossover activities. To my knowledge, there aren't any comparable models or examples that fit the bill.
+
+### CHALLENGE 2: There’s no sense-making around who does what.
+
+Despite their commonalities, some understanding professions are erroneously referred to interchangeably, like information design and information architecture, or user experience design and interaction design, because their key differences are not clearly spelled out. Some fields, like information design, are either [misunderstood](/the-real-meaning-of-information-design) or [disregarded](/saving-information-design-history-part-1) altogether due to poor use of terminology and lack of accurate definitions. Efforts to diagram some of the understanding professions (examples [here](http://www.jjg.net/elements/pdf/elements.pdf), [here](http://www.kickerstudio.com/2008/12/the-disciplines-of-user-experience/), and [here](https://www.researchgate.net/publication/235623001_The_Diagram_of_Information_Visualization)) have proven helpful in defining loose relationships and connections, but to my knowledge, no collaborative visual representation based on input from a wide range of understanding professionals has been attempted. Meanwhile, do regular folks even understand what people in the understanding professions do? How do they know who to hire for a job or project? How do younger folks know what to study, or where?
+
+**IDEA 1:** Make this a track in conferences, the focus of an event series, or a special topic in journals to invite different views. The 2016 [Information+ conference](http://informationplusconference.com/) came close to doing this, if only by welcoming a highly diverse group of speakers and topics.
+
+**IDEA 2:** Encourage cross-disciplinary "understanding studies" in higher education, where students and faculty from design, science, technology, the humanities, business, and other areas can gain exposure to each other's fields and undertake collaborative research and community projects on understanding issues. Does any college or university do something like this already?
+
+**IDEA 3:** Write a blog post explaining one or more understanding professions that is somehow tagged or listed with other similar posts. A nice example along these lines is Andy Kirk’s [8 Hats of Data Visualization](http://www.visualisingdata.com/2012/06/article-the-8-hats-of-data-visualisation-design/?es_p=3523922).
+
+### CHALLENGE 3: Shared histories are little unknown and fading away.
+
+Physical books, papers, and archives are being forgotten if they’re not online, and whatever history _is_ documented online isn’t always cited properly. Nor is it guaranteed to last forever. Sometimes, newer books are published without sources or with very limited reading lists (often with books and papers from only the past 10-15 years), which makes thorough research difficult. And, unsurprisingly, most books deal exclusively in one field; few books attempt to truly bridge and unite the understanding professions.
+
+**IDEA 1:** Make use of available historical archives as research objects and teaching tools, to be analyzed from different perspectives and lenses. Margaret Pearce's up-close [analysis](https://www.nypl.org/blog/beta/2017/01/06/rare-gem-information-design) of Minard's self-published folio of maps and graphs does a good job of modeling the thought process behind this kind of research.
+
+**IDEA 2:** Undertake a project to increase awareness of influential books, papers, and historical milestones, with usable sources. Some great examples of bringing hidden histories to life are Scott Klein’s [Above Chart newsletter](http://tinyletter.com/abovechart/archive), Andy Cotgreave’s [100 Years of Brinton Tumblr](http://100yrsofbrinton.tumblr.com/), and Nathan Yau’s [revival](http://flowingdata.com/2015/06/16/reviving-the-statistical-atlas-of-the-united-states-with-new-data/) of the Statistical Atlas of the United States.
+
+**IDEA 3:** Create a database-driven timeline that presents in one place the histories of the understanding professions, with intersections and overlaps indicated. One of the closest conceptual examples I can think of is Michael Friendly's exhaustive [timeline project](http://datavis.ca/milestones/), _Milestones in the history of thematic cartography, statistical graphics, and data visualization._
+
+### CHALLENGE 4: Information convenience too often trumps information quality.
+
+Social media and the online news outlets have reshaped the information environment: what's popular, sensational, and shallow gets all the attention. It has become too easy to accept what’s online at face value; recommendations, likes, and other social devices streamline information choices, which are typically headlines, visually catchy graphics and images, and other shareable snippets. It is the job of understanding professionals to ensure that information is reliable, easy to find, and easy to use, and yet, when certain corporate and political forces are calling the shots, the result is info crap that seeks to persuade and even deceive rather than inform.
+
+**IDEA 1:** Establish global standards for the creation, design, and distribution of information, and develop ways to enforce them. Identify accountable parties and introduce fact-checking or info quality assurance gate keepers wherever possible for written text as well as visuals and graphics. I don't know of existing models or best practices for this (suggestions?) but voices like [Alberto Cairo's](http://www.thefunctionalart.com/2016/11/now-more-than-ever-call-out.html) are raising awareness and heightening BS detection skills when it comes to journalism.
+
+### CHALLENGE 5: Many understanding problems go unaddressed because they're not identified.
+
+While a growing proportion of understanding work focuses on creating and optimizing digital experiences, there's a whole universe of challenges in need of attention, many of which are not exclusively digital in nature (safety, emergency preparedness, and accessibility for the disabled are just a few examples). But there are two big obstacles: 1) those who need help don't know how to frame and articulate their problem as some type of understanding problem, and 2) they don't always know that there are trained, qualified understanding professionals available to help. 
+
+**IDEA 1:** Educate the public, government agencies, educational institutions, and others on the value of understanding professionals and how they can help tackle a variety of problems. A notable example of transparency and clarity in outward communication (but not exactly in a cross-profession sense) is the UK [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) team's [explanation](https://www.gov.uk/government/organisations/government-digital-service/about) of what they do, their [Design Principles](https://www.gov.uk/design-principles), and their [blog](https://gds.blog.gov.uk/). 
+
+These are just initial thoughts. My hope is that a broader conversation unfolds about what else is possible and where this could lead.
+
+I believe it is time for understanding to graduate from a word to a movement. There's too much at stake to just carry on with business as usual and hope it'll all sort itself out in the end.
