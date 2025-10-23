@@ -5,6 +5,7 @@ draft: false
 description: "On making a return to blahg-ing"
 categories: 
 - "personal"
+layout: "single"
 ---
 
 So my online presence has been pretty quiet for the past 6 years. My last post, a career retrospective, was in 2019, and while I attempted some social posts here and there, it seemed far wiser to just stay offline altogether. 
