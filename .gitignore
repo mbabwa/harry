@@ -6,3 +6,5 @@ site/public
 themes/.DS_Store
 themes/hc-starter/.DS_Store
 themes/hc-starter/layouts/.DS_Store
+.DS_Store
+themes/.DS_Store
