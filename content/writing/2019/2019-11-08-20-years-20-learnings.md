@@ -3,6 +3,7 @@ title: "20 Years, 20 Learnings"
 date: 2019-11-08
 categories: 
   - "personal"
+layout: "single"
 ---
 
 On this date ten years ago, I reflected on the first decade of my career as a designer, a professional milestone not unlike reaching a scenic overlook on a steep mountain climb or a mile marker on a rocky long-distance trek. As I looked back over the years and [wrote](/10-years-10-learnings) each lesson, I conjured up all my successes and failures, the people who shaped my work and my thinking, the projects that pushed both my skill and my patience to their limits, and all the little everyday moments that had much more influence than I realized. In that short exercise of writing a retrospective blog post, it was like I had stopped to catch my breath and survey my travels so far — but also to take stock of the important things I had gained and, of course, to brace myself for the next leg of the journey.
