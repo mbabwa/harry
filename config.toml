@@ -114,5 +114,3 @@ weight = 20
 name = "Slashes"
 url = "/slashes/"
 weight = 25
-
-ignoreLogs = ['warning-goldmark-raw-html']
