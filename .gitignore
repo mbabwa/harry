@@ -2,3 +2,4 @@ node_modules/
 public/
 site/public
 .vscode/*
+content/.DS_Store
