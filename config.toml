@@ -1,7 +1,7 @@
-baseurl = "https://harrycresswell.com/"
+baseurl = "https://mbabwa.com/"
 theme = "hc-starter"
 languageCode = "en-gb"
-title = "Harry Cresswell"
+title = "mbabwa"
 pluralizelisttitles = false
 # Enable for syntax highlighting
 pygmentsUseClasses = true
@@ -14,19 +14,19 @@ enableGitInfo = true
 enableEmoji = true
 
 [params]
-keywords = "Product Design, UX Design, UI Design, Front-end Web Development, Small businesses, Automation, Typography"
-description = "Harry Cresswell is a professional designer and front-end web developer from London, England. Read technical articles and notes on designing and coding websites."
-strapline = "Design and front-end web development"
-location = "London, UK"
-card_image = "img/card-image.png"
+keywords = "Information Design, Strategy, Organizational Strategy, Systemic Design"
+description = "Michael Babwahsingh is an information designer trying to make sense of the world."
+strapline = "Human skills for deep change"
+location = ""
+card_image = ""
 # Set Cloudinary URL for image hosting
-cloudinary_url = "https://res.cloudinary.com/harrycresswell/image/upload/"
+cloudinary_url = ""
 
 [params.author]
-name = "Harry Cresswell"
-email = "harry.pq0hx@aleeas.com"
-github = "https://github.com/harrycresswell"
-linkedin = "https://linkedin.com/in/harrycresswell/"
+name = "Michael Babwahsingh"
+email = "mbabwa@proton.me"
+github = ""
+linkedin = "https://linkedin.com/in/mbabwahsingh/"
 
 [taxonomies]
 topic = "topics"
