@@ -3,3 +3,4 @@ public/
 site/public
 .vscode/*
 content/.DS_Store
+.DS_Store
