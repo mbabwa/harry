@@ -1,0 +1,39 @@
+---
+title: "Towards the Good"
+date: 2016-12-31
+categories: 
+  - "personal"
+---
+
+For me, 2016 will go down as the year of the gut, when reason and restraint took a holiday. Foundations were shaken, bigly. Concepts like data, information, fact, and truth were all sent through the wringer. Reality became a crowdsourced phenomenon, a channel you could change with the push of a button if the broadcast didn’t suit your tastes.
+
+This was also the year of peak device, when what became normalized was non-stop info consumption. Today’s phones and tablets are not unlike the lotus plant that trapped the [lotus-eaters](https://en.wikipedia.org/wiki/Lotus-eaters) of Homer’s Odyssey in a vicious cycle of dependency and forgetfulness: so convenient, so soothing, and so insidious. Only there’s no Odysseus to save us as he saved his crew from helpless addiction and certain doom.
+
+### Two Paths for 2017
+
+We’re standing at a fork in the road, but the direction we’ll take isn’t all that clear. On one hand, we can continue down the current path of gut-driven decision-making and info gluttony. We can pick our own flavor of reality, however artificial it may be, and seal ourselves in bubbles of self-absorption and narcissism. We can easily cross the threshold of digital laziness and fully automate our lives with chatty robot servants, self-driving cars, courier drones, and other forms of design solutionism that scratch our every itch but slowly rob us of our agency. 
+
+On the other hand, we can hang on to those irreplaceable things we humans have always hung on to, like real dialogue, personal connection, restorative recreation, intellectual stimulation, fulfilling work, creative expression, and active community participation. We can carry forward generations of wisdom that span all cultures and rediscover the joys (and necessary sorrows) of lives _less_ designed by others for us but _more intentionally_ and _proactively_ defined by us for us and those we care about.
+
+If we choose to follow the latter path, we need to redefine what “good” is. How do we restore fundamental values in a time of deafening noise, superficial pleasures, and countless distractions that we too readily allow to alter our behavior and upend our priorities? 
+
+### A Greek Lesson on “Good”
+
+When I was little, my Greek grandparents (yes, I’m half-Greek) would send me off with this saying when I’d leave the house: _Sto kalo na pas_[^1]. 
+[^1]: I couldn't get Greek text to display correctly. When I figure it out, I'll update this post.
+
+It literally means “go to the good” and is sometimes shortened to _sto kalo_ because the rest was understood, in the same way English speakers say “take care” instead of “take care of yourself.” As a child, I always thought it just meant “be good” or maybe even “go with good luck,” because that’s what elders say to the younger folk when they’re not around to keep an eye on them. And that’s how I always understood it, as a reminder to use caution and heed the lessons of my upbringing, lest I face the wrath of my grandparents if I go astray.
+
+It turns out that the Greek adjective [_to kalon_](http://teacherofclassics.com/?p=867)  has many layers of meaning, which also makes it difficult to translate precisely in certain usages. It can refer to something good, beautiful, honorable, right, fine, or high-quality. In a philosophical sense, it can refer to an inner goodness that expresses itself as outer beauty, or in more grand terms, an excellence worthy of great admiration and respect.
+
+If I reconsider the wise words of my grandparents with the deeper meanings in mind, perhaps the main point wasn't just to be a good boy. I think the true intent of "going to the good" was to seek out what is right or just, rather than take the easy way out and accept or do what is convenient but morally and ethically questionable. It was an admonition to stay true to my values and to never settle for less than what "good" means to me. This aligns closely with the Greek code of conduct epitomized by the term _[philotimo](https://en.wikipedia.org/wiki/Philotimo)_, which also lacks a direct English equivalent (this [video](https://youtu.be/vyOIgzVKLT4) explains it well). It is the highest virtue, the quality of living honorably, showing deep loyalty to family and friends as well as concern for the disadvantaged, even at one’s own expense. In a way, _philotimo_ is the pursuit of the good (_to kalon_) in oneself through everyday actions, and cultivation of the good in others through the enactment of that behavior. _Philotimo_ is never about seeking reward for doing what’s right; at its core, it is about selflessness, humility, and pure service.
+
+### Old World Values in Changing Times
+
+My grandparents are long gone now, but I recall vividly the many New Years’ we celebrated together. There was a magic to the holiday, as if the stroke of midnight signaled a brand new reality, a fresh start. As a child, I felt the buzz of excitement when (by tradition) we turned off all the lights in the house and huddled around the glowing TV screen, watching the glittering New Years ball slowly make its descent in Times Square. Once it reached bottom, and with Dick Clark’s blessing, we would welcome the New Year, turn on the lights, and carry on with our usual festivities: cutting of the _vasilopita_ (New Year’s bread with a good-luck coin hidden inside), card games, and snacking on nuts.
+
+Now, as I replay those moments in my mind, I see New Years a bit differently. Age and experience have helped me understand my grandparents' frame of mind at this time of year. It is a new beginning, full of possibility, but it is also a void, full of mystery and uncertainty. What guide us through the New Year are two things: **hope** that we will find good fortune in situations beyond our control, and **faith** that we will think, speak, and act in service of the good, that our hearts and our minds will stay true to the good, especially when it’s hardest to do so. 
+
+We humans are imperfect, forgetful creatures, which is why we so often need reminders of what’s important, generation after generation, year after year. The more freedoms and options we gain and the more boundaries get blurred or stretched, the stronger the sense of personal responsibility we need to guide our decisions, to recalibrate our inner compass, and to set our limits, beyond received wisdom alone. It’s not enough to simply mimic what is passed down from our parents, grandparents, and mentors because it is considered good or right, nor is it enough to merely champion what has gained wide acceptance through popularity or consensus. **What really matters is how we practice the principles behind the “golden rules” of life: learning _how_ to discern the good in all things and knowing what is noble, fair, and true by our own sound judgement.** We can control our time, our attention, and our appetites if we consciously choose to — if we commit to a better way of being — no matter if a smartphone beckons us with its beeps and buzzes or some outlandish claim online taunts us to unleash our outrage. Of course, living up to one's own ideal ain't easy, and mistakes are inevitable, but ultimately, in the grand scheme of things, persistence most certainly pays off.
+
+Over the next twelve months, familiar stories will play out, but it’s anyone’s guess where we'll land. Silicon Valley will keep promising us better, easier lives with its gadgets and apps. Madison Avenue will keep seducing us to want what we don’t have and never be satisfied with what we do have. Politicians will claim to fight for our best interests but only satisfy their own. And so on. I know my grandparents’ words will be resonating in my mind, as they always have. My hope is that we all find our own path towards the good in 2017, and keep to it.

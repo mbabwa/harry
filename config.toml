@@ -81,8 +81,8 @@ url = "/writing/"
 weight = 10
 
 [[menu.main]]
-name = "Links"
-url = "/links/"
+name = "Notes"
+url = "/notes/"
 weight = 15
 
 [[menu.main]]
@@ -101,8 +101,8 @@ url = "/writing/"
 weight = 10
 
 [[menu.footer]]
-name = "Links"
-url = "/links/"
+name = "Notes"
+url = "/notes/"
 weight = 15
 
 [[menu.footer]]
@@ -114,3 +114,8 @@ weight = 20
 name = "Slashes"
 url = "/slashes/"
 weight = 25
+
+[[menu.footer]]
+name = "Archive"
+url = "/archive/"
+weight = 30
