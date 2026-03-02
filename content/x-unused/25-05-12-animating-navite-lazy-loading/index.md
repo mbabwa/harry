@@ -1,6 +1,6 @@
 ---
 title: "Animating native Lazy Loading (as a progressive enhancement)"
-date: 2025-05-12T11:40:57+01:00
+date: 2025-05-12T11:40:57+01:00 
 draft: false
 slug: "animating-native-lazy-loading-progressive-enhancement"
 topics: ["HTML", "JavaScript"]

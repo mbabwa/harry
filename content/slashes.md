@@ -15,4 +15,3 @@ This is my slashes page where you can find all of my [slash pages](https://slash
 - [/reading](/reading/): The books I’ve read since 2018.
 - [/uses](/uses/): My office setup and the app and services I use day to day.
 
-Learn more about my thoughts [on slash pages and /slashes](/writing/slash-pages-and-slashes/).

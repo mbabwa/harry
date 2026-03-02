@@ -1,9 +1,10 @@
 ---
 title: "Back again"
+date: 2025-10-03
+draft: false
+slug: "back-again"
+topics: ["personal", "sensemaking"]
 description: "On making a return to blahg-ing"
-date: "2025-10-03"
-categories: 
-- "personal"
 ---
 
 So my online presence has been pretty quiet for the past 6 years. My last post, a career retrospective, was in 2019, and while I attempted some social posts here and there, it seemed far wiser to just stay offline altogether. 
