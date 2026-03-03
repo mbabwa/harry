@@ -6,7 +6,7 @@
         <h1 class="p-name">{{ .Title }}</h1>
         <p>{{ .Params.Description | markdownify }}</p>
         <div class="cluster">
-          <time class="dt-published" datetime="{{ .Date }}">{{ .Date.Format "Jan 2 2006" }}</time>
+          <time class="dt-published" datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
           {{ partial "post/topics.html" . }}
         </div>
       </header>

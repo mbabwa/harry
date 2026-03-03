@@ -7,8 +7,8 @@ draft: false
 
 <!-- {{< pullImage src="v1550264713/hc/harry-cresswell-about-me.jpg" alt="Harry Cresswell – Front-end Web Development" caption="" >}} -->
 
-## For 27 years, I have done design, branding, storytelling, and strategy for various clients. I have taught workshops and courses on design topics. I also coauthored a book on information design.
+For 27 years, I have done design, branding, storytelling, and strategy for various clients. I have taught workshops and courses on design topics. I also coauthored a book on information design.
 
-## As human and planetary challenges intensify, I see an urgent need to help people navigate uncertainty and create new paths forward.
+As human and planetary challenges intensify, I see an urgent need to help people navigate uncertainty and create new paths forward.
 
-## If you need a sensemaking partner, futures facilitator, and/or problem-solving process guide, let's talk!
+If you need a sensemaking partner, futures facilitator, and/or problem-solving process guide, let's talk!

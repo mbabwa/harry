@@ -19,7 +19,7 @@
         <a rel="author" class="p-author h-card" href="{{ $.Site.BaseURL }}">Harry Cresswell</a>
       </div>
       <div class="cluster">
-          <time class="dt-published" datetime="{{ .Date }}">{{ .Date.Format "Jan 2 2006" }}</time>
+          <time class="dt-published" datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time>
           {{ partial "post/topics.html" . }}
       </div>
       <p>{{ .Description | markdownify }}</p>

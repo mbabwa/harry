@@ -86,36 +86,21 @@ url = "/notes/"
 weight = 15
 
 [[menu.main]]
-name = "Topics"
-url = "/topics/"
-weight = 20
-
-[[menu.footer]]
-name = "Index"
-url = "/"
-weight = 5
-
-[[menu.footer]]
-name = "Writing"
-url = "/writing/"
-weight = 10
-
-[[menu.footer]]
-name = "Notes"
-url = "/notes/"
-weight = 15
-
-[[menu.footer]]
-name = "Topics"
-url = "/topics/"
+name = "About"
+url = "/about/"
 weight = 20
 
 [[menu.footer]]
 name = "Slashes"
 url = "/slashes/"
-weight = 25
+weight = 5
+
+[[menu.footer]]
+name = "Topics"
+url = "/topics/"
+weight = 10
 
 [[menu.footer]]
 name = "Archive"
 url = "/archive/"
-weight = 30
+weight = 15
